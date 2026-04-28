@@ -39,7 +39,7 @@ Modern AI-powered Tic Tac Toe game with:
 - Responsive Design
 
 🔗 Live Demo:
-https://tic-tac-toe-web-7t8d.vercel.app
+[https://tic-tac-toe-web-7t8d.vercel.app](https://tic-tac-toe-web-sigma.vercel.app/)
 
 ---
 
