@@ -1,10 +1,6 @@
 # Hey 👋 I'm Mohsen
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Orbitron&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Frontend+Developer;React+%26+AI+Enth
-     usiast;Building+Cool+Stuff+🔥" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Enthusiast;AI+%26+Game+Developer;Building+Cool+Stuff+🔥" />
 
 ---
 
