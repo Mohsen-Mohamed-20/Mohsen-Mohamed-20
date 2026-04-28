@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-    font=Orbitron&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Frontend+Developer;React+%26+AI+Enth
+font=Orbitron&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Frontend+Developer;React+%26+AI+Enth
      usiast;Building+Cool+Stuff+🔥" />
 </p>
 
