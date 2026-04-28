@@ -27,7 +27,4 @@ https://tic-tac-toe-web-7t8d.vercel.app
 
 ## 📫 Contact Me
 - GitHub: https://github.com/Mohsen-Mohamed-20
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Mohamed-20&show_icons=true&theme=tokyonight)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Mohamed-20&layout=compact&theme=tokyonight)
