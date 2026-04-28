@@ -7,7 +7,7 @@
 ## 🚀 About Me
 💻 Computer Science Student from Egypt  
 ⚛️ React & Frontend Developer  
-🎮 Building AI Games & Modern Web Apps  
+🎮 Building Wep Games & Modern Web Apps  
 🧠 Learning AI & Backend Development  
 🔥 Passionate about creating modern UI/UX
 
